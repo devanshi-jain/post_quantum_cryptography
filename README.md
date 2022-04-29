@@ -1,0 +1,2 @@
+# post_quantum_cryptography
+Due to recent developments in the field of quantum computers, cryptologists are actively looking to build quantum-resistant cryptographic algorithms. Using those machines, many of today’s most prevalent cryptosystems can be cracked by  Shor's Algorithm which uses quantum computation to equate the prime number phases expressed as sine waves to factor large integers, effectively solving the discrete logarithm problem that many current cryptographic algorithms are focused on.
